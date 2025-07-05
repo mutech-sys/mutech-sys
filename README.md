@@ -41,10 +41,10 @@
 
 
 # Top Languages I Use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muabdullahtech&layout=donut&theme=dracula)](https://github.com/muabdullahtech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutech-sys&layout=donut&theme=dracula)](https://github.com/mutech-sys)
 
 # My Github Stats
-[![Abdullash's GitHub stats](https://github-readme-stats.vercel.app/api?username=muabdullahtech&show_icons=true&theme=dracula&hide=contribs,issues,prs)](https://github.com/muabdullahtech)
+[![Abdullash's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutech-sys&show_icons=true&theme=dracula&hide=contribs,issues,prs)](https://github.com/mutech-sys)
 
 # My Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muabdullahtech&theme=dracula&hide_border=true&mode=weekly&hide_longest_streak=true)](https://github.com/muabdullahtech)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mutech-sys&theme=dracula&hide_border=true&mode=weekly&hide_longest_streak=true)](https://github.com/mutech-sys)
